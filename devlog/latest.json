@@ -4,6 +4,14 @@
   "entries": [
     {
       "type": "feature",
+      "title": "New Feature",
+      "author": "jaipaljadeja",
+      "publishedAt": "2025-08-12",
+      "summary": "Awesome feature is added!",
+      "content": "niceee"
+    },
+    {
+      "type": "feature",
       "title": "Improved support for nested Starknet event types",
       "author": "fracek",
       "publishedAt": "2025-08-05T10:00:00Z",
